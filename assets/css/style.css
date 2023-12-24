@@ -10,8 +10,11 @@ header {
 nav a {
     color: whitesmoke;
     text-decoration: none;
+    margin: 50px;
 }
-
+  nav a:hover {
+      text-decoration: underline;
+  }
 main {
     background: url(../images/hero\ image\ boxing.jpg) no-repeat center / cover;
     height: 600px;

@@ -1,9 +1,13 @@
 header {
     font-family: Arial, sans-serif;
-    background-color: antiquewhite;
-    color: black;
-    text-decoration: none;
+    background-color: black;
+    color: whitesmoke;
     width: 100%;
     text-align: center;
     
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
 }

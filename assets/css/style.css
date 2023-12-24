@@ -4,7 +4,11 @@ header {
     color: whitesmoke;
     width: 100%;
     text-align: center;
-    
+
+}
+
+h1 {
+    margin: 0
 }
 
 nav a {
@@ -12,20 +16,27 @@ nav a {
     text-decoration: none;
     margin: 50px;
 }
-  nav a:hover {
-      text-decoration: underline;
-  }
+
+nav a:hover {
+    text-decoration: underline;
+}
+
 main {
     background: url(../images/hero\ image\ boxing.jpg) no-repeat center / cover;
     height: 600px;
     width: 100%;
 }
 
+#about {
+    background-color: black;
+    color: whitesmoke;
+}
+
 footer {
     font-family: Arial, sans-serif;
-        background-color: black;
-        color: whitesmoke;
-        width: 100%;
-        text-align: center;
-        height: 74px;
+    background-color: black;
+    color: whitesmoke;
+    width: 100%;
+    text-align: center;
+    height: 74px;
 }

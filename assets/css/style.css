@@ -34,6 +34,9 @@ nav a:hover {
 p {
     margin: 0;
     padding: 0em;
+    text-align: center;
+    padding-left: 8px;
+    padding-right: 8px;
 
 }
 

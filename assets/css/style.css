@@ -7,6 +7,10 @@ header {
 
 }
 
+header nav {
+    display: none;
+}
+
 h1 h2 {
     padding-top: 0;
 }
@@ -17,6 +21,7 @@ nav a {
     color: whitesmoke;
     text-decoration: none;
     margin: 50px;
+    
 }
 
 nav a:hover {

@@ -11,7 +11,8 @@ header nav {
     display: none;
 }
 
-h1 h2 {
+h1, h2 {
+    margin: 0;
     padding: 0;
 }
 
@@ -21,18 +22,30 @@ nav a {
     color: whitesmoke;
     text-decoration: none;
     margin: 50px;
-    
+
 }
 
 nav a:hover {
     text-decoration: underline;
 }
 
+p {
+    margin: 0;
+    padding: 0em;
+
+}
+
+body {
+    margin: 0;
+    padding: 0em;
+}
+
 main {
     background: url(../images/hero\ image\ boxing.jpg) no-repeat center / cover;
-    height: 600px;
+    height: 500px;
     width: 100%;
-    padding: 0 0;
+    margin: 0rem;
+    padding: 0rem;
 }
 
 #about {
@@ -49,14 +62,12 @@ footer {
     background-color: black;
     color: whitesmoke;
     width: 100%;
-    height: 74px;
-    padding: 0 0;
+    height: 50px;
 }
 
 footer nav {
 
     color: whitesmoke;
     text-decoration: none;
-    margin: 50px;
-    text-align: center;
+
 }

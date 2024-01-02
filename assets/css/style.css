@@ -83,9 +83,10 @@ main {
     background-color: rgb(0, 0, 0, 0.5);
     border: 5px solid;
     margin: auto;
-    width: 50%;
+    width: 60%;
     padding: 10px;
     overflow: hidden;
+    height: 60vh;
     
 }
 

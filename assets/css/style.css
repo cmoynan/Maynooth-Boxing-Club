@@ -16,8 +16,15 @@ h2 {
     margin: 0;
     padding: 0;
     text-align: center;
+    font-size: 180%;
+
 }
 
+h3 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
 
 
 nav a {
@@ -35,8 +42,7 @@ p {
     margin: 0;
     padding: 0em;
     text-align: center;
-    padding-left: 8px;
-    padding-right: 8px;
+    padding: 8 8 8 8;
 
 }
 
@@ -80,7 +86,7 @@ footer nav {
 }
 
 @media screen and (min-width: 768px) {
-   header nav {
+    header nav {
         display: block;
 
     }

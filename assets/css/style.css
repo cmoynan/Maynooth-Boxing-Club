@@ -1,6 +1,6 @@
 header {
     font-family: Arial, sans-serif;
-    background-color: rgb(56, 56, 56);
+    background-color: rgb(40, 40, 40);
     color: whitesmoke;
     width: 100%;
     text-align: center;
@@ -16,10 +16,8 @@ h2 {
     margin: 0;
     padding: 0;
     text-align: center;
-    font-size: 180%;
-    border-bottom: 2rem;
+    font-size: 180%;}
 
-}
 
 h3 {
     margin: 0;
@@ -51,55 +49,56 @@ p {
 
 }
 
+ul li {
+    list-style: none;
+}
+
 body {
-    margin: 0;
-    padding: 0em;
-}
+        margin: 0;
+        padding: 0em;
+    }
 
-main {
-    background: url(../images/hero\ image\ boxing.jpg) no-repeat center / cover;
-    height: 500px;
-    width: 100%;
-    margin: 0rem;
-    padding: 0rem;
-}
+    main {
+        background: url(../images/hero\ image\ boxing.jpg) no-repeat center / cover;
+        height: 500px;
+        width: 100%;
+        margin: 0rem;
+        padding: 0rem;
+    }
 
-#about {
-    background-color: rgb(40, 40, 40);
-    color: whitesmoke;
-    padding-bottom: 20px;
-}
+    #about {
+        background-color: rgb(40, 40, 40);
+        color: whitesmoke;
+        padding-bottom: 20px;
+    }
 
-#classes {
-    background-color: black;
-    color: whitesmoke;
-    padding: 0 0;
-
-}
-
-
-
-footer {
-    font-family: Arial, sans-serif;
-    background-color: rgb(56, 56, 56);
-    color: whitesmoke;
-    width: 100%;
-    height: 50px;
-}
-
-footer nav {
-
-    color: whitesmoke;
-    text-decoration: none;
-    text-align: center;
-
-
-}
-
-@media screen and (min-width: 768px) {
-    header nav {
-        display: block;
+    #classes {
+        background-color: black;
+        color: whitesmoke;
+        padding: 0 0;
 
     }
 
-}
+    footer {
+        font-family: Arial, sans-serif;
+        background-color: rgb(40, 40, 40);
+        color: whitesmoke;
+        width: 100%;
+        height: 100px;
+
+    }
+
+    footer nav {
+
+        color: whitesmoke;
+        text-decoration: none;
+        text-align: center;
+        font-size: 150%;
+ }
+
+    @media screen and (min-width: 768px) {
+        header nav {
+            display: block;
+
+        }
+    }

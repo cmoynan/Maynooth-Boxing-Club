@@ -34,5 +34,16 @@ The site was deployed to GITHUB pages.
 In the GitHub repository, I navigateg to the Settings tab
 From the source section drop-down menu,I  selected the Master Branch
 Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here 
+
+GitHub link https://cmoynan.github.io/Maynooth-Boxing-Club/
+
+CREDITS:
+
+Text for the classes descirption was taken from a couple boxing websites . beatboxboxingclub.com and whitcolarboxing.ie.
+
+Fonts used were from FONT awesome and the font input script was copied from the LOVE running project.
+
+Photo used on landing page is from Pexels.com
+
+
 

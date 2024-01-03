@@ -47,9 +47,6 @@ p {
 
 }
 
-ul li {
-    list-style: none;
-}
 
 body {
     margin: 0;
@@ -94,9 +91,6 @@ label {
     color: white;
 }
 
-form > hr {
-    display: hidden;
-}
 
 
 footer {
@@ -118,7 +112,26 @@ footer nav {
 
 @media screen and (min-width: 768px) {
     #contact-us {
-        height: 50vh;
+        margin: auto;
+        width: 25%;
+        padding: 10px;
+        overflow: hidden;
+        height: 38vh;
     }
-  
+
+    nav {
+        font-size: 160%;
+    }
+
 }
+
+@media screen and (min-width: 992px) {
+    #contact-us {
+        margin: auto;
+        width: 15%;
+        padding: 10px;
+        overflow: hidden;
+        height: 60vh;
+
+
+    }

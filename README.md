@@ -1,5 +1,7 @@
 Hello.
 
+
+
 Welcome to my Maynooth Boxing club website. The Maynooth boxing  website is aimed at getting people from the local commnuity of Maynooth and also neighbouring towns to get involved in Boxing while also getting fit. The site was created in order to give the boxing club owners a way of informing people on what classes are provided and also at what time they are on at while also giving users an option to contact them on
 
 FEATURES:

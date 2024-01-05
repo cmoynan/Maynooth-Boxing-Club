@@ -29,7 +29,11 @@ I have teseted the nav bar numerous times and all links work and alo teseted the
 
 HTML passed the W3C validator with no erros but there was errors initally that needed to be corrected. Formatting the file on Codeanywhere gave the hr tags a /to close the tag and these needed to be removed.
 
+
+
 CSS also passed the jigsaw validator. First check there was a parse error but once corrected no erros were found.
+
+
 
 UNFIXED BUGS:
 

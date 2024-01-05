@@ -48,9 +48,13 @@ I used the lighthouse function on devtools to test the performamce and accessibi
 
 
 
-UNFIXED BUGS:
+BUGS:
 
-One thing i struggled with was the form. Although you can submit the form ti does not say all the fields were submitted even though all fields are filled out. I have attemoted to correct this but without plagiarising i just could not get the code right.
+One thing i struggled with was the form. Although you can submit the form ti does not say all the fields were submitted even though all fields are filled out. I was able to get this corrected.
+
+Lighthouse scroe was only 31% for perfromace. Mainly caused by the landing image being too large. Reduced the image size to correct this.
+
+Accessibility score also below 90%. Added aria labels to the social media icons to bring the score above 90%
 
 Update to the above. I was able to fix the form bug.
 

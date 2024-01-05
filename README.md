@@ -27,11 +27,24 @@ TESTING:
 
 I have teseted the nav bar numerous times and all links work and alo teseted the form which can be submitted and also requires a certain amount of info and will correct the user if it is not entered.
 
+![form errors](https://github.com/cmoynan/Maynooth-Boxing-Club/assets/150179658/cc18f4e7-551c-4e3c-9d72-8c49ebcd7885)
+
+
+![email form error](https://github.com/cmoynan/Maynooth-Boxing-Club/assets/150179658/102a4ade-0144-410e-a8f9-196481070827)
+
+
 HTML passed the W3C validator with no erros but there was errors initally that needed to be corrected. Formatting the file on Codeanywhere gave the hr tags a /to close the tag and these needed to be removed.
 
-
+![HTML validator](https://github.com/cmoynan/Maynooth-Boxing-Club/assets/150179658/b7fd83d5-f82e-492d-b8d5-de6eac2402f8)
 
 CSS also passed the jigsaw validator. First check there was a parse error but once corrected no erros were found.
+
+![css validator](https://github.com/cmoynan/Maynooth-Boxing-Club/assets/150179658/91ba976d-9385-4e88-8629-71b63c1b0519)
+
+I used the lighthouse function on devtools to test the performamce and accessibility of the website.
+
+
+![Lighthouse score](https://github.com/cmoynan/Maynooth-Boxing-Club/assets/150179658/2c5ef80f-51be-4715-b1c1-409cc454417b)
 
 
 

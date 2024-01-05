@@ -29,6 +29,8 @@ UNFIXED BUGS:
 
 One thing i struggled with was the form. Although you can submit the form ti does not say all the fields were submitted even though all fields are filled out. I have attemoted to correct this but without plagiarising i just could not get the code right.
 
+Update to the above. I was able to fix the form bug.
+
 DEPLOYMENT:
 The site was deployed to GITHUB pages.
 In the GitHub repository, I navigateg to the Settings tab
@@ -39,7 +41,7 @@ GitHub link https://cmoynan.github.io/Maynooth-Boxing-Club/
 
 CREDITS:
 
-Text for the classes descirption was taken from a couple boxing websites . beatboxboxingclub.com and whitcolarboxing.ie.
+Text for the classes descirption was taken from a couple boxing websites . beatboxboxingclub.com and whitecollarboxing.ie.
 
 Fonts used were from FONT awesome and the font input script was copied from the LOVE running project.
 

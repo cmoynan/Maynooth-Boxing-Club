@@ -4,9 +4,6 @@ header {
     color: whitesmoke;
     width: 100%;
     text-align: center;
-    
-
-
 }
 
 h1,
@@ -60,8 +57,7 @@ main {
     width: 100%;
     margin: 0rem;
     padding: 0rem;
-    
-    
+
 }
 
 #about {
@@ -88,6 +84,7 @@ main {
     overflow: hidden;
     height: 60vh;
 
+
 }
 
 label {
@@ -100,7 +97,8 @@ footer {
     color: whitesmoke;
     width: 100%;
     height: 100px;
-    
+    position: relative;
+
 }
 
 footer nav {
@@ -116,12 +114,19 @@ footer nav {
         margin: auto;
         width: 25%;
         padding: 10px;
-        overflow: hidden;
         height: 38vh;
+    }
+
+    main {
+        height: 82vh;
     }
 
     nav {
         font-size: 160%;
+    }
+
+    footer {
+        position: relative;
     }
 
 }
@@ -135,5 +140,9 @@ footer nav {
         height: 60vh;
 
 
+    }
+
+    main {
+        height: 75vh;
     }
 }

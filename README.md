@@ -1,7 +1,8 @@
 Hello.
 
-inline-style:
+
 ![AMI image for devices](https://github.com/cmoynan/Maynooth-Boxing-Club/assets/150179658/5abfbc6e-2c61-4b92-bd79-39d5f5a518b5)
+
 
 
 
@@ -24,6 +25,9 @@ Once you get by the about us section you come to the classes section. This gives
 Finally on the main page you have at the footer the social media links which when clicked bring you firectly to the boxing clubs social media pages.
 
 Once the users have scrolled through they can then go to the contact us page to fill out a form to directly contact the the club filling in a few details that allows the club understand why they are contacting them while also giving detailsto contact the users back on.
+
+
+![contact page responsive design](https://github.com/cmoynan/Maynooth-Boxing-Club/assets/150179658/13ab376f-ec01-4bd0-9027-8eab95892bc7)
 
 
 TESTING:

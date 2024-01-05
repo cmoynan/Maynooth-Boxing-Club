@@ -3,6 +3,16 @@ Hello.
 AMI image for devices
 
 Welcome to my Maynooth Boxing club website. The Maynooth boxing website is aimed at getting people from the local commnuity of Maynooth and also neighbouring towns to get involved in Boxing while also getting fit. The site was created in order to give the boxing club owners a way of informing people on what classes are provided and also at what time they are on at while also giving users an option to contact them on
+![AMI image for devices](https://github.com/cmoynan/Maynooth-Boxing-Club/assets/150179658/5abfbc6e-2c61-4b92-bd79-39d5f5a518b5)
+
+
+
+
+
+
+
+
+Welcome to my Maynooth Boxing club website. The Maynooth boxing  website is aimed at getting people from the local commnuity of Maynooth and also neighbouring towns to get involved in Boxing while also getting fit. The site was created in order to give the boxing club owners a way of informing people on what classes are provided and also at what time they are on at while also giving users an option to contact them on
 
 FEATURES:
 
@@ -19,6 +29,9 @@ Finally on the main page you have at the footer the social media links which whe
 Once the users have scrolled through they can then go to the contact us page to fill out a form to directly contact the the club filling in a few details that allows the club understand why they are contacting them while also giving detailsto contact the users back on.
 
 contact page responsive design
+
+![contact page responsive design](https://github.com/cmoynan/Maynooth-Boxing-Club/assets/150179658/13ab376f-ec01-4bd0-9027-8eab95892bc7)
+
 
 TESTING:
 

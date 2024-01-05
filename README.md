@@ -1,8 +1,8 @@
 Hello.
 
+AMI image for devices
 
-
-Welcome to my Maynooth Boxing club website. The Maynooth boxing  website is aimed at getting people from the local commnuity of Maynooth and also neighbouring towns to get involved in Boxing while also getting fit. The site was created in order to give the boxing club owners a way of informing people on what classes are provided and also at what time they are on at while also giving users an option to contact them on
+Welcome to my Maynooth Boxing club website. The Maynooth boxing website is aimed at getting people from the local commnuity of Maynooth and also neighbouring towns to get involved in Boxing while also getting fit. The site was created in order to give the boxing club owners a way of informing people on what classes are provided and also at what time they are on at while also giving users an option to contact them on
 
 FEATURES:
 
@@ -18,6 +18,7 @@ Finally on the main page you have at the footer the social media links which whe
 
 Once the users have scrolled through they can then go to the contact us page to fill out a form to directly contact the the club filling in a few details that allows the club understand why they are contacting them while also giving detailsto contact the users back on.
 
+contact page responsive design
 
 TESTING:
 
@@ -33,13 +34,9 @@ One thing i struggled with was the form. Although you can submit the form ti doe
 
 Update to the above. I was able to fix the form bug.
 
-DEPLOYMENT:
-The site was deployed to GITHUB pages.
-In the GitHub repository, I navigateg to the Settings tab
-From the source section drop-down menu,I  selected the Master Branch
-Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+DEPLOYMENT: The site was deployed to GITHUB pages. In the GitHub repository, I navigateg to the Settings tab From the source section drop-down menu,I selected the Master Branch Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-GitHub link https://cmoynan.github.io/Maynooth-Boxing-Club/
+GitHub link <https://cmoynan.github.io/Maynooth-Boxing-Club/>
 
 CREDITS:
 
@@ -48,6 +45,3 @@ Text for the classes descirption was taken from a couple boxing websites . beatb
 Fonts used were from FONT awesome and the font input script was copied from the LOVE running project.
 
 Photo used on landing page is from Pexels.com
-
-
-
